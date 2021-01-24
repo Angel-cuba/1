@@ -1,0 +1,2 @@
+Aqui se hace el llamado CRUD
+..........Todas las funciones se hacen en el app y después se utilizan coom 'props' en cada componente en el que se necesita.
